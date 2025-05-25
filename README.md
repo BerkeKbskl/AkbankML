@@ -1,3 +1,7 @@
+## 🔗 Kaggle Notebook
+
+https://www.kaggle.com/code/onurzgan/notebookca30332ead
+
 # 🏠 Airbnb Fiyat Tahmin Projesi
 
 *Akbank Makine Öğrenmesi Bootcamp 2025 Projesi*
@@ -160,12 +164,6 @@ Denenen algoritmalar:
    - Harita bazlı görselleştirme
    - Spatial clustering
    - Neighborhood scoring
-
-## 🔗 Kaggle Notebook
-
-https://www.kaggle.com/code/onurzgan/notebookca30332ead
-
-Not: Notebook Kaggle'a yüklendikten sonra link güncellenecektir.
 
 ## 👨‍💻 Geliştiriciler
 
