@@ -171,5 +171,6 @@ Not: Notebook Kaggle'a yüklendikten sonra link güncellenecektir.
 
 Ferhat Onur Özgan
 - GitHub: github.com/onurzgn
+
 Berke Kabasakal
 - GitHub: github.com/berkekbskl
